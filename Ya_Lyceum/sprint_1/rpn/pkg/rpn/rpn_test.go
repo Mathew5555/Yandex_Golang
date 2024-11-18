@@ -1,7 +1,7 @@
 package rpn_test
 
 import (
-	rpn "github.com/Mathew5555/rpn/pkg"
+	rpn "github.com/Mathew5555/Yandex_Golang/Ya_Lyceum/sprint_1/rpn/pkg/rpn"
 	"testing"
 )
 
